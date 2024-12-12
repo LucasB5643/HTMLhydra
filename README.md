@@ -46,6 +46,136 @@
 </section>
 <footer>
 <img class="PhotoHydra" src="ressources/Hydra.png" alt="HydraloopPhoto" width="700" height="325">
+  <html lang="fr">
+<head>
+
+    <link rel="stylesheet" type="text/css" href="Sambatra.css">
+    <img src="logo.png" alt="Logo" width="150" height="133" align="left" style="margin-right"/>
+
+</head>
+<body>
+
+<header>
+<h1><p>EXPLICATION</p></h1>
+
+</header>
+
+
+<section>
+    <h2> Hydraloop? </h2>
+    <p>Il collecte les eaux grises provenant de sources comme les douches ou les lave-linges, les purifie grâce à des technologies sans filtre ni produits chimiques (décantation, bio-réacteur, désinfection UV), et les réutilise pour des usages non potables comme les toilettes, l’irrigation ou le lavage. Cela réduit la consommation d'eau potable et les déchets.</p>
+</section>
+
+<section>
+    <h2> Mode de fonctionnement </h2>
+    <p>L'Hydraloop est un système qui récupère et purifie les eaux usées de la maison, comme celles des douches et de la lessive. Ces eaux, appelées "eaux grises", sont nettoyées à l'aide de filtres et de désinfection (comme l'ozone) avant d'être stockées. Ensuite, elles peuvent être réutilisées pour des usages non potables, comme la chasse d'eau ou l'arrosage. Ce système permet de réduire la consommation d'eau, de baisser les factures et de préserver les ressources en eau potable.</p>
+	<ul>
+
+       
+  
+
+
+    </ul>
+</section>
+
+<section>
+<h2> Installation à domicile </h2>
+<p>L'installation de l'Hydraloop à domicile se fait en plusieurs étapes :
+
+Préparation : Choisissez un emplacement adapté près de votre plomberie (cave, garage) et vérifiez l'accès à l'eau et à l'électricité.
+
+Plomberie : Coupez l'eau, puis raccordez les tuyaux des sources d'eau usée (douche, machine à laver) à l'entrée de l'Hydraloop. Reliez la sortie d'eau recyclée aux toilettes ou au système d'irrigation.
+
+Raccordement électrique : Branchez l'Hydraloop à une prise électrique.
+
+Tests : Vérifiez qu'il n'y a pas de fuites et que le système fonctionne correctement.
+
+Entretien : Nettoyez régulièrement les filtres et suivez les instructions du fabricant pour l'entretien.</h2></p>
+
+
+      <ul>
+       
+       
+
+
+
+   </ul>
+   </p>
+
+</section>
+
+
+</body>
+</html>
+<html lang="fr">
+<head>
+   
+    <link rel="stylesheet" type="text/css" href="STYLEness.css">
+    <img src="logo.png" alt="" width="130" height="110" align="left" style="margin-right"/>
+	
+</head>
+<body>
+
+<header>
+    
+    <p> <h1>Impacts et Avantages</h1></p>
+
+</header>
+
+
+<section>
+    <h2>Les impacts</h2>
+    <p>
+        
+         Fabrication et transport : <br/>
+		Les matériaux utilisés pour produire Hydraloop, bien que robustes et recyclables, impliquent une empreinte carbone lié à leur extraction, transformation et transport.<br/><br/>
+		 Durabilité des composants électroniques :<br/>
+		-Comme pour tout appareil électronique, les composants d’Hydraloop auront une durée de vie limitée et devront être remplacés, générant potentiellement des déchets électroniques.
+
+      </p>
+</section>
+
+<section>
+    <h2>Avantages</h2>
+    <p>
+      <ul> 
+	  <li> Économies : Réduit jusqu’à 45 % de la consommation d’eau potable dans les maisons équipées.</li> 
+      <li> Environnement : Limite le gaspillage des ressources hydriques et les rejets dans les égouts.</li> 
+      <li> Flexibilité : Disponible pour des applications résidentielles et commerciales, avec des unités adaptées à différentes tailles d'installation.</li> 
+	  </ul>
+   </p>
+
+</section>
+
+<section>
+    <h2>ODD concerné</h2>
+    <ul>
+        
+        <li>ODD 6 : Eau propre et assainissement <img src="odd-6.png" alt="" width="60" height="45" align="center"/></li>
+		<li>ODD 9 : Industrie, innovation et infrastructures <img src="odd-9.png" alt="" width="60" height="45" align="center"/></li>
+        <li>ODD 11 : Villes et communautés durables <img src="11-odd.png" alt="" width="60" height="45" align="center"/></li>
+        <li>ODD 12 : Consommation et production responsables <img src="12-odd.png" alt="" width="60" height="45" align="center"/></li>
+		<li> ODD 13 : Action pour le climat <img src="13-odd.png" alt="" width="60" height="45" align="center"/></li>
+		
+		
+    </ul>
+</section>
+ <video class="crs" src="oddvidéo.mp4" width="450" height="350" controls> </video> 
+ 
+<section>
+    <h2>Récompenses et Adoptions</h2>
+    <p>
+      <ul>
+        
+        <li> Prix Best of Innovation CES 2020 : Lors du Consumer Electronics Show (CES) 2020, Hydraloop a été célébré dans les catégories de la durabilité, de l'éco-conception et de l'énergie intelligente. Ce prix met en lumière sa contribution à la réduction de la consommation d'eau et à la promotion de solutions respectueuses de l'environnement.</li> 
+		<li> Prix d'Innovation Durable (Solar Impulse) : Attribué par la Fondation Solar Impulse, ce label reconnaît Hydraloop comme une solution innovante favorisant la durabilité environnementale et réduisant les empreintes écologiques.</li>
+		<li> Global Change Award 2020 : Organisé par la Fondation H&M, ce concours a récompensé le rôle d'Hydraloop dans la mise en œuvre de solutions circulaires, notamment en matière de gestion durable de l'eau pour les ménages et les entreprises.</li>
+		<li> Prix d’Innovation Aquatech : Hydraloop a reçu cette distinction lors du salon Aquatech Amsterdam pour sa technologie avancée de traitement des eaux usées, renforçant sa réputation en matière d'innovation environnementale et de gestion de l’eau.</li>
+   </ul>
+   </p>
+
+</section>
+
 </footer>
 </body>
 </html>
